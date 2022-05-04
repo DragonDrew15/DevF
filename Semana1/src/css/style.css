@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkcyan;
+    background-image: url(../img/BackGround.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    color: darkred;
+}
+
+span:hover{
+    background-image: url(../img/BackGround2.jpg);
+}
